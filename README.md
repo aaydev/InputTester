@@ -2,7 +2,7 @@
 
 A lightweight Windows Forms utility for checking keyboard and mouse input.
 
-![AppForm](.\test.jpg)
+![AppForm](test.jpg)
 
 ## Features
 
